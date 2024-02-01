@@ -1,0 +1,7 @@
+{
+    "provider": "YourProviderOfChoice",
+    "features": {
+      "v2_enabled": true
+    }
+  }
+  
