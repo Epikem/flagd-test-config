@@ -15,7 +15,7 @@
         "key2": "uri::2",
         "key3": "uri::3"
       },
-      "defaultVariant": "key3"
+      "defaultVariant": "key2"
     },
     "myFloatFlag": {
       "state": "ENABLED",
